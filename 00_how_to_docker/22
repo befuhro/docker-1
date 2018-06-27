@@ -1,0 +1,2 @@
+#executer cette commande pour recuperer le token    $>docker swarm join-token worker
+docker-machine ssh Aiur "<commande retournee par celle donnee ci-dessus>"

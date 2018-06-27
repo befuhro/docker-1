@@ -1,0 +1,5 @@
+docker container run -dt --name Abathur -v /Users/befuhro/Desktop/app_flask:/root -p $(docker-machine ip Char):3000:3000 python:2-slim
+docker exec -it Abathur apt-get update
+docker exec -it Abathur pip install flask
+docker exec -it Abathur python /root/app.py
+docker exec -it Abathur bash -c "export FLASK_APP=/root/app.py && flask run -h 0.0.0.0 -p 3000"
