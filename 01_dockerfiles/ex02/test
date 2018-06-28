@@ -1,2 +1,0 @@
- docker build -t ft-rails:on-build .
- docker build -t test -f Dockerfile_child .
