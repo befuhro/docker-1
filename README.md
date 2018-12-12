@@ -1,6 +1,6 @@
 # Docker-1
 
-## Objectifs
+## Description
 Projet qui a pour but d'initier à Docker à travers une série d'exercices.  
 
 ## Première partie
