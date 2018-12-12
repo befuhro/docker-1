@@ -11,4 +11,4 @@ Il est demandé entre autre de créer une VM et de lui attribuer des variables d
 Cette partie permet de mettre en pratique certains points vu dans la première  
 Il est demandé de créer des dockerfile qui repondent à des besoins spécifiques, les dockerfiles sont des fichiers qui permettent de créer ses propres images docker  
   
-Le sujet est disponible sur le repo pour plus d'information
+Le sujet est disponible sur le repo pour plus d'informations
